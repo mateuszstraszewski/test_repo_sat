@@ -1,1 +1,1 @@
-Welcome 1
+Text in branch_2 file test_branch2.txt
